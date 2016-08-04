@@ -1,0 +1,35 @@
+_repo: Starr-King-in-California_4641
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Simonds, William Day
+    birthdate: 1855
+    deathdate: 1920
+    gutenberg_agent_id: '1525'
+    url: http://www.gutenberg.org/2009/agents/1525
+description: The History of the American West Collection is a unique project that
+  provides opportunities for researchers and new readers to easily access and explore
+  works which have previously only been available on library shelves. The Collection
+  brings to life pre-1923 titles focusing on a wide range of topics and experiences
+  in US Western history. From the initial westward migration, to exploration and development
+  of the American West to daily life in the West and intimate pictures of the people
+  who inhabited it, this collection offers American West enthusiasts a new glimpse
+  at some forgotten treasures of American culture. Encompassing genres such as poetry,
+  fiction, nonfiction, tourist guides, biographies and drama, this collection provides
+  a new window to the legend and realities of the American West.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'King, Thomas Starr, 1824-1864'
+- !lcsh 'Unitarians -- Biography'
+- !lcc 'BX'
+- !lcsh 'California -- History -- Civil War, 1861-1865'
+- GITenberg
+title: Starr King in California
+url: http://www.gutenberg.org/ebooks/4641
