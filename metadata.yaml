@@ -1,5 +1,8 @@
 _repo: Starr-King-in-California_4641
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Simonds, William Day
@@ -17,6 +20,8 @@ description: The History of the American West Collection is a unique project tha
   at some forgotten treasures of American culture. Encompassing genres such as poetry,
   fiction, nonfiction, tourist guides, biographies and drama, this collection provides
   a new window to the legend and realities of the American West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4641#Starr-King-in-California
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
